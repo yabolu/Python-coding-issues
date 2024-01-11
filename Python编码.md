@@ -61,6 +61,18 @@ print('*'*100)
 # binascii.a2b_hex() 功能相反
 print(binascii.a2b_hex(b'41'))
 print(binascii.a2b_hex(b'e4b8ad'))
+
+print('*'*100)
+
+# bytes.hex() 和 binascii.baz_hex()功能比较类似，但是返回的个字节类型（二进制）的十六进制string串
+print(s1.encode().hex())
+print(s2.encode().hex())
+
+print('*'*100)
+
+# bytes.fromhex() 功能和bytes.hex()相反
+print(bytes.fromhex('41').decode())
+print(bytes.fromhex('e4b8ad').decode())
 ```
 
 ![](https://github.com/yabolu/Python-coding-issues/blob/main/images/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
