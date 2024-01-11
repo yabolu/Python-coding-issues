@@ -63,4 +63,4 @@ print(binascii.a2b_hex(b'41'))
 print(binascii.a2b_hex(b'e4b8ad'))
 ```
 
-![](https://s2.loli.net/2024/01/11/HNyMFopb8B92ZjQ.jpg)
+![](https://github.com/yabolu/Python-coding-issues/blob/main/images/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.jpg)
