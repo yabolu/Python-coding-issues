@@ -63,4 +63,4 @@ print(binascii.a2b_hex(b'41'))
 print(binascii.a2b_hex(b'e4b8ad'))
 ```
 
-![](media/17049377578295/17049398581942.jpg)
+![](https://s2.loli.net/2024/01/11/HNyMFopb8B92ZjQ.jpg)
